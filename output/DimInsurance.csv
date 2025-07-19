@@ -1,0 +1,564 @@
+insurance_id,patient_id,insurance_payer_name,insurance_policy_number,insurance_group_number,insurance_plan_type
+8ca59966,1710cf53,Contreras-Morgan,47ca7883-ff5,78a330a1,PPO
+a1f65507,69ace913,Contreras-Morgan,cde9d231-c8a,924aecbe,PPO
+bcb3fd50,1d1615ad,Ramirez-Young,b7a46957-ca7,63316907,Medicaid
+4bd411e6,f1b31705,Clayton-Bender,ea4cd4bc-78b,1438a218,Medicare
+0a97a27d,41c7924a,Clayton-Bender,99dae697-b73,854d8d37,Medicare
+006eeb6f,2e2f91d5,Richardson-Smith,16b5945a-d46,d019eefd,PPO
+13af9896,a937cb4d,Clayton-Bender,cbd6504b-9a9,c16ca0e3,Medicare
+ec8b4382,9a8768a2,Richardson-Smith,4d88373f-aea,2b96664d,Medicaid
+ca1a5205,ad1c476f,Richardson-Smith,fcc920ce-79e,14dde0b7,PPO
+336ad107,990e3052,Richardson-Smith,e312dffb-7a8,46a4565f,Medicare
+9ebfefa0,d7874408,Ramirez-Young,08ec43e2-434,54010793,Medicaid
+370879ce,fd77cd71,Contreras-Morgan,1e26ac22-06e,b0a34dc2,Medicare
+cd5acadc,f35ec902,"Johnson, Mckenzie and Roberts",584a39ec-efa,f711c39f,PPO
+d42431ba,da75df78,Ramirez-Young,bf0e48ad-eb1,17dad3ee,PPO
+85f5dc8c,8669fe6e,"Johnson, Mckenzie and Roberts",91f6453d-8ed,f52a60c1,Medicaid
+4dd52dd3,73a11803,Ramirez-Young,57da0f5d-5fb,aea2acdd,Medicare
+efd4ec7e,92a3c924,Richardson-Smith,6afad415-708,1fb950a7,Medicaid
+bde7e0a6,c378af2a,Contreras-Morgan,3e2755a9-a36,89134258,PPO
+30c2a42c,da88238d,Contreras-Morgan,01e6b3bc-921,904a4940,Medicare
+c7564e1c,cfc6df7d,"Johnson, Mckenzie and Roberts",e25e6181-99e,b56a7179,HMO
+5573dac1,2a3929ea,Richardson-Smith,7802649f-30f,4d1fa965,Medicare
+0e140617,0950830e,Ramirez-Young,7e3f35e3-101,8f61ba6b,HMO
+6e620d93,3375cca5,"Johnson, Mckenzie and Roberts",f8f3b616-1fb,77c024cd,Medicare
+2c8afd54,ac694f51,Clayton-Bender,238cdf8f-bfc,7095d967,Medicaid
+f658a0fa,979a4cc2,Clayton-Bender,d2e3358e-bca,0a30b9df,HMO
+34423143,ba813f80,Ramirez-Young,84b0829b-0b0,94673ada,Medicare
+4580fa3e,5abaace8,Richardson-Smith,46685a26-e63,fac2cc82,Medicaid
+527de6d0,8dac6423,Clayton-Bender,0544194a-ca8,37d97281,Medicaid
+ddb414e4,f724743b,"Johnson, Mckenzie and Roberts",dcd9b58c-8bd,6281f04c,HMO
+44f8b3c4,b947af1f,"Johnson, Mckenzie and Roberts",eb05793b-82d,87455118,HMO
+ace2ccdf,24480ab1,Clayton-Bender,298403b4-cc7,34253259,Medicare
+75768993,ed0f19af,"Johnson, Mckenzie and Roberts",3cf5cb37-2cd,363210ff,HMO
+981eda5e,4191d112,Ramirez-Young,b8a9f384-269,5a180c35,Medicaid
+6ebcf86f,c818d50b,Ramirez-Young,6faf0efa-842,b02b2103,PPO
+d7ff3776,14286fb2,Contreras-Morgan,87a4f148-f42,eae4da5d,HMO
+901174d9,c8fb9683,"Johnson, Mckenzie and Roberts",c34bdf3b-938,2f3d10b1,Medicare
+da76e3d1,ef83779b,Contreras-Morgan,c3999c64-391,03b30137,Medicaid
+48fe3962,2cdb47b8,Ramirez-Young,73c128ce-a11,9fb13692,PPO
+90f47ec7,934f5fc2,Richardson-Smith,70e1aa8b-51f,625b3823,Medicare
+90429c61,8286f941,Contreras-Morgan,f5e20825-a8e,bf9fd87e,HMO
+0cfcde0d,9b52c836,Contreras-Morgan,c3cdbc5e-19a,423bea72,Medicare
+2c191a48,762e6093,Clayton-Bender,b813fe7d-140,c5e00853,Medicaid
+6a886d9b,3c94eb1f,Contreras-Morgan,b0f13701-ff0,56ebcf9c,Medicaid
+a19a41d3,e8b6762e,Ramirez-Young,f534b6a6-b3c,9f95e62a,Medicaid
+d3a8bbee,bb5a7f3a,Ramirez-Young,c7c2839f-c58,3884a336,PPO
+671380ee,b5fb07cd,Ramirez-Young,3f3dfd1e-844,05b11da8,HMO
+1dc574a2,ede0a921,Clayton-Bender,8f0165da-e25,ddf6b2f5,Medicare
+de3e0b84,d7bb1572,"Johnson, Mckenzie and Roberts",4efaabb1-426,e0114c63,HMO
+c334c4b0,759b2157,Richardson-Smith,b6104a12-257,90afc48c,Medicaid
+53c5f94a,6af8e67c,Richardson-Smith,84804582-b79,94d62003,PPO
+373454ed,2d37c4cc,Ramirez-Young,bd13915b-2c9,c99c7c08,Medicaid
+9b59c127,688dc497,Ramirez-Young,c0f7c156-688,d974b075,Medicare
+48f3023b,e7bc4f7a,Clayton-Bender,2dafc821-bc7,bc02bca7,Medicare
+9343ba43,05fd8e71,"Johnson, Mckenzie and Roberts",0ce61f4f-266,ca166196,Medicare
+dfad7f3d,a8973882,Contreras-Morgan,bdf2743a-e9c,5f9abe5f,PPO
+d71ac8cb,f1504288,Ramirez-Young,8970c2a9-b7d,a4cb4fd0,Medicaid
+0ad82f65,c6792b59,Contreras-Morgan,1c930982-0d9,f72ca031,PPO
+cff1fd6b,386a855c,Contreras-Morgan,c18b0c0a-bd1,34b13d73,HMO
+f3855cde,80bdfbfc,Contreras-Morgan,233e1b83-a91,160ca0d2,HMO
+e662dfce,3ca69756,Contreras-Morgan,200013da-b15,97fb7f21,HMO
+20be2a37,32ed7316,"Johnson, Mckenzie and Roberts",d06772da-4e8,6cd2d889,HMO
+018d1b80,515b3eab,Richardson-Smith,70e67a8a-889,ee8b1995,PPO
+00b046af,58689c2f,Ramirez-Young,6ae73804-a46,1ec6d12b,Medicare
+064ccc34,3ebc98c3,"Johnson, Mckenzie and Roberts",cfcb9e7c-0eb,dc13fd41,HMO
+739e2ea0,7881286a,Clayton-Bender,f9c42465-a48,0a1d375b,Medicare
+b5acdd51,075b18d2,"Johnson, Mckenzie and Roberts",fa91303d-e33,d10f448f,Medicaid
+55a0978c,df2769e8,Contreras-Morgan,084806bc-9b9,5675a35f,Medicaid
+afad315c,ceeafe3e,Richardson-Smith,9e2d4a4b-fda,b8133a97,Medicaid
+a9274d86,04df63c7,Richardson-Smith,e28aa462-782,73a62586,HMO
+98921750,b921d5bb,"Johnson, Mckenzie and Roberts",b59b2c2c-f9c,db623692,Medicaid
+0976141b,45842446,Ramirez-Young,fba25d4e-be5,6405d8bb,Medicaid
+6786065a,2f81d0cb,Contreras-Morgan,0ca26227-ae1,c35c50f7,PPO
+bdab1c37,2b3a09ff,Clayton-Bender,5cd5e864-33b,468595b1,PPO
+1820373a,1e19c752,Contreras-Morgan,f4d320a0-3fe,f5810ab3,PPO
+32147507,4000e3f6,Ramirez-Young,ea034d21-23f,7e0d451a,Medicare
+2bcda917,282b3423,Richardson-Smith,c7d3f367-ee3,b09286f8,Medicare
+9db396f2,92732d8a,Clayton-Bender,1e20cf82-0b1,2b08e327,HMO
+b9d05452,f235062d,Clayton-Bender,967ceab4-7d4,7cc2a43d,PPO
+86bb39d5,a1c5975d,Ramirez-Young,32615619-7c3,2ea2cb8e,Medicare
+b684278f,de641859,Richardson-Smith,c21ab91e-398,814645a2,Medicaid
+1fa3f978,6aa76f06,Ramirez-Young,246c3702-0b7,7d81e006,PPO
+ce232bea,d8d20790,"Johnson, Mckenzie and Roberts",6d5a9ed3-148,442456d9,Medicare
+309dcf60,b4b5af47,Richardson-Smith,9bf40c11-2b0,a6073814,Medicaid
+e32a597a,b328cb60,Richardson-Smith,2611b68b-336,6d7a0cc6,Medicare
+13abd8d0,ec4e7e79,"Johnson, Mckenzie and Roberts",8f684434-df6,126a9268,HMO
+b4818cc0,6843a89c,"Johnson, Mckenzie and Roberts",184ae6ac-f88,22dc26cb,HMO
+66abb82d,4418f295,Ramirez-Young,f221d93d-948,3d2eb9c6,Medicaid
+8ec2bf88,c55dfedd,Clayton-Bender,8b3883a4-39b,afc44825,Medicare
+8f3374ac,70af4c11,Clayton-Bender,38ef7e7c-8ca,b5e66d01,HMO
+605e657c,51665d24,"Johnson, Mckenzie and Roberts",e7e17cfa-3e9,7bdee84f,Medicare
+d8d54793,9a14d17e,"Johnson, Mckenzie and Roberts",ac1059d0-4c8,c7afa29d,Medicaid
+c9522252,3f420cce,Ramirez-Young,1839312a-250,ffe4d23f,Medicaid
+57962c4b,da606a4a,"Johnson, Mckenzie and Roberts",191f606d-cf4,e6beb5d6,Medicare
+ab099060,af2bc316,Ramirez-Young,777eec8d-f7a,e582f2a7,Medicare
+022696a4,825e4266,Contreras-Morgan,84b3c11f-166,e071b352,Medicare
+e12d4926,4961a707,Contreras-Morgan,ba6f5680-258,40afb1b8,Medicaid
+30a11f75,44d164f1,Richardson-Smith,9e9d19ab-3dd,0d5a1852,HMO
+4e183367,e37db65d,Richardson-Smith,4614405d-148,6b0b76ee,Medicaid
+9cc7fd79,d36e665d,"Johnson, Mckenzie and Roberts",dab86e0e-f12,dbb687ee,Medicare
+f02552a1,1c1e133b,Ramirez-Young,615f8cbd-754,1a56baa5,PPO
+85f476be,583e7ba2,Richardson-Smith,6abdb8f8-7f5,10f6f8ea,HMO
+c46c7643,f48f31a3,Clayton-Bender,3187048d-1c9,afbedc21,HMO
+fa727bde,438f3c5e,Contreras-Morgan,a1a7be5b-60f,5667593b,Medicare
+df0290f4,5d77392f,Richardson-Smith,7f94a889-a47,43acc7b3,PPO
+dfb5f4f5,cb99c876,Contreras-Morgan,1d1b71b5-52b,3f8548df,HMO
+cd1fbf19,6278fdf8,Clayton-Bender,74342126-95c,5dfa26da,Medicaid
+258e9a76,0848a7c0,Contreras-Morgan,8adb10f4-8bc,8ab0a0fd,Medicaid
+5556fafc,4ff35a50,"Johnson, Mckenzie and Roberts",9efbb331-a8d,7f11ab83,PPO
+e940cf34,88a5d86d,"Johnson, Mckenzie and Roberts",f4f3572e-f5b,68ebed2d,Medicaid
+60c2bf1b,3f3e300a,Contreras-Morgan,a1b1eb79-6a3,e2b9c738,PPO
+abda800f,4d680508,Richardson-Smith,460cfe1e-483,f899d4ca,Medicare
+9e5f7357,7bcf266e,Contreras-Morgan,0f8260a9-1a4,6f4c8cd4,HMO
+a64f720b,f933b065,Richardson-Smith,0b6f4d77-a72,ddef4232,PPO
+041f9975,1f5471e4,Richardson-Smith,eeaf1dc6-ea8,1bb6bc31,HMO
+6813cf83,b5133975,Richardson-Smith,654bf217-767,0efc7afd,PPO
+03d77dbb,99dc3a57,Contreras-Morgan,eddb2405-d3d,cffbe04c,HMO
+bff2ef06,de4c3801,Contreras-Morgan,44b3d555-cbe,7c87e86c,PPO
+e3df5204,9ee65b8a,Richardson-Smith,9aebd7d1-e10,8f3e7ff3,Medicaid
+a628950e,5392c6b3,Ramirez-Young,d2feec03-120,2d6067cf,PPO
+1df45181,4c891ce4,Clayton-Bender,de043358-849,586d4055,HMO
+7242c863,b98fb963,Contreras-Morgan,11167908-845,5bfa70a8,HMO
+8523df31,eecd5edb,Richardson-Smith,0a545244-c6f,3462b0a9,HMO
+8ad94f5e,2a5abfa2,Richardson-Smith,cec1cb1d-4fb,23be8c8e,Medicaid
+34c06301,fdc262c8,Clayton-Bender,25e3640d-6dd,f02a4d1b,Medicaid
+5bdff729,b2e3a7da,Richardson-Smith,b38715c7-696,d4b423ba,Medicaid
+ba19a8cf,9fb8041e,Clayton-Bender,6cf57871-841,3d26a036,Medicaid
+c44b6b2b,83ddc76c,Ramirez-Young,7092db82-7f0,e83762ed,Medicare
+4b39d410,d5c6d54c,"Johnson, Mckenzie and Roberts",a1741906-b1d,22e27c88,HMO
+03b9d9e5,42d88584,Ramirez-Young,89a7eac1-54c,9f5f6754,PPO
+0c114c34,fe104a97,Clayton-Bender,166d242a-c02,218a1bc3,Medicaid
+f9f6e1d4,fa17f438,Contreras-Morgan,f295547b-757,ac29253a,PPO
+7619823b,71517565,Clayton-Bender,0be40336-977,040de13a,Medicare
+0d7d35a1,f2f5e6f7,Ramirez-Young,b0d35614-2a9,b9ccdaa1,HMO
+2b0c58ed,20db520b,Clayton-Bender,02e082fb-bff,a56aebf7,Medicare
+6777ae49,8dce714f,Contreras-Morgan,501ade51-66b,74ad9552,PPO
+bd1c5122,6c7ee00d,"Johnson, Mckenzie and Roberts",837dbeb8-df3,8c5350be,Medicare
+0a4ee3bc,0e18a01a,Richardson-Smith,42a6191a-88d,0c537a7d,PPO
+167a8eab,27c641b4,Ramirez-Young,9cf8753a-fea,2168d099,Medicare
+691d144d,1f0fec36,Contreras-Morgan,6b4d96a0-659,49195ef3,Medicaid
+b079e536,93ed7344,Clayton-Bender,28567aee-9a3,9aa47aa6,Medicaid
+21bd1524,2d238767,Contreras-Morgan,18046ef4-9c8,76716a9b,Medicare
+61e24699,8ff5c269,Richardson-Smith,24ace1f7-745,2b2af2a3,HMO
+100faedf,e8867e2e,Richardson-Smith,b67aa0fe-109,ba13ad80,HMO
+c75639e6,6cc2d98f,Clayton-Bender,fa1a1b7a-a18,8b8085a4,Medicare
+0518fec1,a699a7fa,"Johnson, Mckenzie and Roberts",41b6b706-4bf,3fd57a24,Medicaid
+4da5539e,230f2c63,Contreras-Morgan,645ad71a-8ea,8cda37e4,HMO
+116108fb,fa20572b,Clayton-Bender,e0b35cf0-5b7,6734bd8e,HMO
+b52e57b7,f214b4ac,Ramirez-Young,a4d11d19-c5c,a64cef33,PPO
+d7d2ec62,b2284214,Contreras-Morgan,f52cf763-043,89980730,Medicaid
+2310e6a9,9ede5ef5,"Johnson, Mckenzie and Roberts",f865e044-44d,aadb3936,Medicare
+87728345,9fb7f4a4,"Johnson, Mckenzie and Roberts",9de71cbb-dd3,d5d4086d,PPO
+b62619ea,1ca0687e,"Johnson, Mckenzie and Roberts",ded43414-be6,2edd3b14,HMO
+204ed312,7e6ab76b,Ramirez-Young,9c321262-19c,830e7ad4,Medicare
+871b1ad2,f0433312,"Johnson, Mckenzie and Roberts",0892feff-7ed,f76fff67,HMO
+94886f48,307f99b1,"Johnson, Mckenzie and Roberts",cff41ef6-fe7,d9cbfc0e,HMO
+f3e2e299,3f9ecb64,Richardson-Smith,f8d79565-5cd,7c009ef3,HMO
+ccfaeeb2,8cf78361,Richardson-Smith,4c5e6f2b-56a,d445e40f,HMO
+71aa11e9,24bb7c9f,Richardson-Smith,6ad1d4e3-b81,0995fee0,Medicare
+584436d7,0db2c2c4,Contreras-Morgan,d148fd17-fda,3349b45a,Medicare
+cd32d75a,7b7561dc,Clayton-Bender,bf3b8af3-211,f8e30157,PPO
+6f36e536,74b8b7d1,Ramirez-Young,b346b8ca-18a,dfdc32b2,HMO
+948a48a6,140fa0cb,Clayton-Bender,376fd993-f2e,b6fb462c,PPO
+0252c014,63b1222c,Contreras-Morgan,1fec1368-463,c3277464,PPO
+825bf079,b257b4bf,Ramirez-Young,cfb10eb4-032,58196baa,HMO
+c81a0dd4,e7b5a546,"Johnson, Mckenzie and Roberts",482b10c5-9c7,e0ac1d5d,Medicare
+9c2fbeff,3b006863,Clayton-Bender,981f9770-81a,53b6ca5c,Medicare
+62c7ad6d,d345f1d8,"Johnson, Mckenzie and Roberts",0cfd2840-42d,b8b1742d,Medicare
+6499580b,3b92698b,"Johnson, Mckenzie and Roberts",f7945a85-e18,5350addd,Medicare
+8b561087,c6e17515,Contreras-Morgan,029f8ea2-6dd,08692a6b,PPO
+a2b2b5e1,d26bfd80,Contreras-Morgan,ebd6c172-9ed,c4415325,HMO
+4a5cc97b,61043265,"Johnson, Mckenzie and Roberts",1b4c03e7-5a5,3d4733d6,Medicare
+0eb3b880,779cad01,Contreras-Morgan,594d053a-41b,4c2c8cba,Medicaid
+e8cc88e4,3ee83208,Ramirez-Young,3db54e70-160,bcc6c66c,PPO
+c340a86c,5027998d,Ramirez-Young,0286a90a-17c,86701f53,Medicare
+f94b409d,d8a247ff,Richardson-Smith,5478568f-cb7,051c00d9,Medicaid
+6b696755,e9cf7820,Richardson-Smith,f444401e-5ff,0a1b9f35,Medicaid
+0d2c7b60,a34fa303,Clayton-Bender,8295e3a8-715,dfbe3c88,Medicaid
+12c6df22,f459315b,"Johnson, Mckenzie and Roberts",fe965aec-d26,606c5703,Medicaid
+8ddcf8c1,e5c42ae6,"Johnson, Mckenzie and Roberts",686ffc12-e4e,e451213d,PPO
+777daafa,bedbb504,Richardson-Smith,19427d8a-99e,792acc32,HMO
+87dccbba,f6594b12,Ramirez-Young,8840fb51-04d,0fc8f738,PPO
+b28e6ba9,ff51852f,"Johnson, Mckenzie and Roberts",83cd87b3-daf,867a53f5,PPO
+f7dee019,609f2f67,Ramirez-Young,9a8ed234-941,dbe0cb91,Medicare
+3ff6852e,4e0c2b05,Ramirez-Young,4a465fdd-508,e1b6aa0c,PPO
+b7981704,037def44,Clayton-Bender,5636b5b5-f72,7f548e2e,Medicaid
+46bebff1,010be5c0,Ramirez-Young,78a2691b-1a9,fa80f223,Medicare
+7d28e7d2,faf1e04a,Ramirez-Young,6db0fe51-e41,3bfa1938,HMO
+9061c0b6,358763e9,"Johnson, Mckenzie and Roberts",887e9ccf-ad6,cd3da516,HMO
+fb9b2da5,2f7f7a25,Contreras-Morgan,82be7261-ed7,61a5b7f5,Medicaid
+151b5b99,b8c398b3,"Johnson, Mckenzie and Roberts",2fd639eb-a2f,7c1f8330,Medicare
+f6fea726,3003444d,Clayton-Bender,e41f3aa7-a8d,ab13115a,Medicare
+00d0aff5,9ba88aa1,Clayton-Bender,7d48f0ce-c54,67a698a5,HMO
+80baaa8c,206e7006,Ramirez-Young,79eb202b-a95,778a89cc,Medicaid
+83c5cae5,3816892a,Contreras-Morgan,3d4cc5fb-28d,5bec78d5,HMO
+29ace34a,19100e61,Clayton-Bender,ebf8f2cf-ba2,c7da1381,PPO
+d56aebf7,352550af,Contreras-Morgan,d1751bc9-020,07826374,HMO
+bf0124e3,63cd6b98,Richardson-Smith,d09c2677-514,ca4f0cd2,Medicaid
+7c039be2,be7cab39,Clayton-Bender,3e44d0c5-bfb,7953fa49,HMO
+e44da322,c832f529,Ramirez-Young,08df69f4-c3e,4bfd6cb2,PPO
+23731ae9,87360977,"Johnson, Mckenzie and Roberts",560befa4-604,b47c8fc4,Medicare
+be8f7b0e,d8cf61f5,Contreras-Morgan,eb7988af-26d,79deb967,HMO
+9a5dd3dc,8d5ca932,Richardson-Smith,ab563d07-38f,22f86413,Medicaid
+1eb42bc3,94bf8f94,Richardson-Smith,9fab9ed7-f56,f8b27805,HMO
+5ec7806c,a6949861,Richardson-Smith,a1d287c7-bbe,cacca917,Medicare
+5cd60673,73b8813f,Richardson-Smith,ebc9da36-d91,df69edd6,Medicare
+71dad319,814f7ee6,Richardson-Smith,c7694a7f-081,fc4ec1a4,Medicare
+3f2bb198,56cd90c6,Contreras-Morgan,364cf307-827,955b215b,HMO
+7b99c22b,281d0a7d,Ramirez-Young,11cc76c8-243,d88034f0,Medicaid
+5b3955f9,04d37ffc,Clayton-Bender,eb6fab67-915,9acb496f,HMO
+d554584e,c904f0f7,Clayton-Bender,5e5cba17-19f,43dd7162,Medicare
+739a8490,1430bdd1,"Johnson, Mckenzie and Roberts",bda9ad27-af4,f0e0bf69,PPO
+4ad3d0f7,705af92a,Clayton-Bender,46bce545-7cf,f33717f7,Medicaid
+e82bf7ff,1e1fecce,Contreras-Morgan,42452f52-a37,f9aa0492,Medicare
+ecd7f976,7da7237a,Richardson-Smith,03605bdc-adf,ff335648,HMO
+4ed1e62f,ad9a12a2,Ramirez-Young,99d0c65d-ed6,edd99383,HMO
+dc53ce14,46a86412,Richardson-Smith,f01af6d4-1e1,bf9fbb3c,Medicaid
+a010ce5c,b151dcef,Contreras-Morgan,154c4b92-c8b,e2815aaa,Medicaid
+2bb819a2,1e259ea4,"Johnson, Mckenzie and Roberts",3312848e-61b,cdf34b33,PPO
+8df6d1ba,f3edc00c,Clayton-Bender,c6123dff-30f,c1b4afc5,PPO
+c40c10ae,99523a03,Clayton-Bender,30ce6dba-370,4c7c91c4,PPO
+254d1bed,29890e53,Contreras-Morgan,55e26920-c40,6b25ef28,Medicaid
+b252666c,f2f9df9f,"Johnson, Mckenzie and Roberts",6444abce-ae9,7142ab20,PPO
+fc3921f7,b49283e0,"Johnson, Mckenzie and Roberts",68d9f599-85d,63e29e54,Medicare
+78778aa6,69e9adef,Clayton-Bender,864ed107-37b,545d1457,Medicare
+3286bd26,4de2fb76,"Johnson, Mckenzie and Roberts",2b4954f3-290,425cfcba,HMO
+3c123953,6b4bb9cd,Richardson-Smith,1651e162-278,c89d6b54,PPO
+a7352d5b,e9a550b3,"Johnson, Mckenzie and Roberts",947d8ab4-9c3,21cc83fc,PPO
+7942511d,2085da6a,Ramirez-Young,bf6d151d-b3b,77b5d0f5,PPO
+9beb7808,5ba0d73f,Richardson-Smith,90e11ea8-911,a339b647,HMO
+cba19900,42be9840,Richardson-Smith,33b00097-785,dc3da324,HMO
+bb54c6f4,41d7e8fa,"Johnson, Mckenzie and Roberts",2702881f-71a,e217359b,HMO
+6c3efa62,255b13da,Richardson-Smith,b0f6483b-b46,3aabf9c0,Medicaid
+f72ab223,250a2f70,Ramirez-Young,ed62c8c6-f61,b2772a47,HMO
+ee5514c2,004488e9,Richardson-Smith,b321b490-ab1,cd754b7d,PPO
+f654168e,3bde042f,"Johnson, Mckenzie and Roberts",9a6ab874-43e,543a2473,PPO
+c00cd499,2c94e480,Ramirez-Young,df319802-a0b,a1370167,HMO
+4c4a3a82,c405b7c1,"Johnson, Mckenzie and Roberts",fc8d0eb1-2c1,d1ff0b93,Medicaid
+d4a03839,5d0fece6,Richardson-Smith,b1000ccf-1f0,4a62c951,Medicaid
+a254da3b,2823dc36,Ramirez-Young,a61c7634-9bf,f809e53b,PPO
+51ecd58d,56b1f2d8,Richardson-Smith,4c2cc91e-773,8f73cff2,Medicare
+1bde53c6,1ae97932,Richardson-Smith,29872374-be9,6b3a0128,Medicare
+67dcc23e,6f91851e,Richardson-Smith,113c8454-c65,3a15f2c7,Medicaid
+de1d4b1f,16dfeb92,"Johnson, Mckenzie and Roberts",0b1d9909-507,4f60093b,PPO
+4ddd00ab,b593401e,Ramirez-Young,3d6b7918-4cf,0ffefe9c,Medicaid
+f14a7b5d,d271d334,Contreras-Morgan,1de602af-565,5b5cd62d,PPO
+2be7fb05,4b8373a6,Clayton-Bender,ff252cfd-4f7,2dcb9f9d,HMO
+61652df3,28dd1ebc,Ramirez-Young,f8e967af-fcc,6ac5db15,Medicaid
+3b051ba0,9773b9c2,Contreras-Morgan,6e07168c-061,db87bbec,Medicare
+585cb51e,9eb18817,Ramirez-Young,1c8f30cd-902,11718665,PPO
+d70fe67f,95c5f473,Richardson-Smith,f2313731-f01,08a6ff79,Medicaid
+51dff381,3eaccdde,Richardson-Smith,be116d7a-38b,1ea5a56e,PPO
+37dd5762,b388c456,"Johnson, Mckenzie and Roberts",4b75d179-bbc,90e1df2e,Medicare
+7961895b,4334092a,"Johnson, Mckenzie and Roberts",c670452a-0aa,8bfebed7,Medicare
+146defc9,6a72ebbd,"Johnson, Mckenzie and Roberts",baf4cdd2-f04,80472689,Medicaid
+bdcd013c,2e09e8c9,Ramirez-Young,a49d127b-d6c,47586d27,PPO
+fd73a11b,0a0a76bd,Contreras-Morgan,1092e123-3d2,76bb41c3,Medicaid
+0a94c9cd,af3df0be,Ramirez-Young,115b404b-adf,739d41c1,Medicaid
+2a080a2b,94a962d6,Richardson-Smith,e2d02745-51c,c47b416a,Medicare
+100a1d5e,b798d604,"Johnson, Mckenzie and Roberts",6b159d3c-c66,40dc1eb2,HMO
+e4a0cab1,a2263b15,Ramirez-Young,997c91b1-701,967c02b1,Medicare
+3d02e5b3,3bed2868,Contreras-Morgan,45dddae9-e98,5ddeae69,Medicare
+f713eaea,3a65114c,Ramirez-Young,f0a33187-4ab,b15cb051,Medicare
+ae27062f,28ad6e04,"Johnson, Mckenzie and Roberts",49c2ac5d-12d,6973472a,PPO
+e5d49a14,229e6259,Ramirez-Young,2d2e19b6-971,982ee470,Medicare
+07bbe9cc,add48600,Ramirez-Young,81888128-0cf,e4ba9b68,Medicaid
+917bf739,fe7e275d,Clayton-Bender,6818ad90-eee,b3b9a717,Medicare
+7bb4b494,f78c67c3,Ramirez-Young,e783391b-41b,ee4fd413,HMO
+9739b69f,f7ff0497,Richardson-Smith,7c5f9c89-1fb,e682b73e,Medicare
+102ac8a5,620f47b6,Ramirez-Young,4d5d36ce-d73,cc9d9f93,PPO
+91760f67,3717e1c0,Contreras-Morgan,2061a99f-3e0,21f66c65,Medicare
+8b418f66,658d0058,"Johnson, Mckenzie and Roberts",5e1f83cd-112,d7446b18,Medicaid
+fe14c5e2,57ad2d51,Clayton-Bender,cdbaf1e5-348,6fa18e77,Medicare
+2c820b39,381cb10f,Richardson-Smith,6d9bec9a-fbe,f06e4a1e,Medicaid
+bc0918b1,d42fa56f,"Johnson, Mckenzie and Roberts",4157c895-580,b0ed4056,HMO
+6dcb0b3a,50fdd472,"Johnson, Mckenzie and Roberts",a84b2b46-c15,5de2cfd6,HMO
+7852a42c,3283dd32,Richardson-Smith,227d72a5-98a,30672b28,Medicaid
+5d7977b8,75483bf9,"Johnson, Mckenzie and Roberts",8dfd908e-c00,99c3d796,PPO
+79043b1d,631e0a53,Contreras-Morgan,86d02bfc-bc2,b9303206,Medicaid
+76e80150,8183279a,Clayton-Bender,61699c5d-8e3,abcb1773,Medicare
+c312bec6,8e79ae2b,Clayton-Bender,ff7728a7-d96,aad67f71,PPO
+9c62ca96,44278ff9,Ramirez-Young,b6613998-3e3,1fdcdd92,Medicaid
+c3bcf09f,687b27a2,"Johnson, Mckenzie and Roberts",8ddaa543-500,53d0e5fb,HMO
+9162e58a,255f9d7e,Ramirez-Young,84d24038-ce3,92cb1d73,HMO
+671c6e82,40e23f01,Clayton-Bender,536c7e47-037,37019b55,HMO
+33f6f7a0,62409c1c,Richardson-Smith,46df3ed7-a42,7a72a83d,Medicare
+4f13478d,dc418097,Richardson-Smith,8d5344bc-b3a,251f32dd,PPO
+5fa37ba3,534857ab,Richardson-Smith,59547568-e62,c6a87599,HMO
+3a6c3e55,72bc0841,Ramirez-Young,13a215ac-644,b63bc292,HMO
+ed2ef5df,1cd4fcd2,Contreras-Morgan,a0bf2cb2-88f,dd9f8df9,Medicaid
+02b1e667,1ab65345,Ramirez-Young,08f602fa-fb0,2a36b338,Medicare
+602a375e,602431c7,Richardson-Smith,ea91e5d7-5ab,9ff75624,Medicaid
+d42ec02a,8822715a,Contreras-Morgan,504e3baf-119,41ebaa4b,Medicare
+b04b4359,19e6280b,Richardson-Smith,8f6dd610-a82,1b14252a,Medicaid
+2153b4a8,2c8ae0a4,Contreras-Morgan,e39dcb4e-ef1,7d7fa95b,Medicare
+987fd8e1,d61436da,Clayton-Bender,7b68e8d1-835,a62657fd,Medicare
+d02666bf,526197ea,"Johnson, Mckenzie and Roberts",37ddac70-d34,a2033cae,Medicaid
+f8a2b380,ff7dab44,Ramirez-Young,bacaeb0e-454,6d7b798d,Medicaid
+23bba8a1,00a387ef,"Johnson, Mckenzie and Roberts",eb4c3853-330,b95bdd81,PPO
+5ee1aec8,a431f81c,"Johnson, Mckenzie and Roberts",8fc54bdd-6ed,aa441d3e,PPO
+ca0e927b,9663f991,Richardson-Smith,423ecfcd-405,f7232d91,HMO
+1e8b42ad,059f39b7,Richardson-Smith,3f157809-de2,9e644095,Medicaid
+6d5465f0,5c3efafb,Clayton-Bender,22660ec0-a4c,62d54a20,Medicare
+d7d87821,36a937f8,Clayton-Bender,1f43944b-f57,5c64f380,HMO
+b4847c7e,f74b6efb,Contreras-Morgan,2ce51258-840,51853aaa,HMO
+3e1f024b,cce8438a,Richardson-Smith,0b442bff-897,cf72c749,HMO
+1b05cb34,4c1f3681,Contreras-Morgan,84693a5c-277,24a98bc8,HMO
+d31033c2,6a63e9ac,"Johnson, Mckenzie and Roberts",d048a932-0d4,d08a1811,Medicare
+59728dcb,350fea21,"Johnson, Mckenzie and Roberts",56f8da82-803,b15fca4e,HMO
+bbe4977d,5c001077,Richardson-Smith,256d8db9-375,27331230,PPO
+7a35653c,b00fe219,"Johnson, Mckenzie and Roberts",1984ae96-8fc,0c3221cd,PPO
+2a777ae4,45b4b876,Richardson-Smith,32ef36e3-83f,da9e7b80,Medicare
+2a787400,d44d594a,Contreras-Morgan,5a417dc5-da0,b6937690,Medicaid
+46806906,551f42ef,Contreras-Morgan,0495335d-9a8,cd637881,PPO
+cfbb5085,e360df8f,"Johnson, Mckenzie and Roberts",171c7e4c-772,ebad9819,Medicare
+756deb41,097d2caa,Richardson-Smith,267b1754-8ed,91d450e2,PPO
+a2f21d68,562be954,"Johnson, Mckenzie and Roberts",2e5a7559-348,23d8461a,Medicaid
+bde23eda,2506c96c,Contreras-Morgan,33dd9a5c-847,a6ac0d5b,Medicaid
+c65d2631,827fe46e,Ramirez-Young,72df5bbb-1a9,aa20be5b,Medicare
+3beb1c01,b758f7b9,"Johnson, Mckenzie and Roberts",d51a6771-ab7,fe0a8762,HMO
+95ea9ed1,19404cbc,"Johnson, Mckenzie and Roberts",af326ccc-854,34829d42,Medicaid
+9190f367,b5993c7e,Richardson-Smith,d749760a-e8c,f891be93,PPO
+ab7feb7c,16a634d3,Ramirez-Young,05d5df88-8f9,e66e4850,HMO
+c421756a,84b0e8a4,Clayton-Bender,32f065d8-87a,0ff9d831,HMO
+76d83807,18130974,Clayton-Bender,67646cfb-10f,a849c118,Medicare
+4f312a5b,39bf4bb6,Contreras-Morgan,bdad42b5-69f,d4859e07,Medicaid
+291faee1,f449fbfd,Ramirez-Young,79792907-ffd,4d9baa21,PPO
+59b6d37c,248b06f8,"Johnson, Mckenzie and Roberts",43d101e3-6f9,2b1f8a8b,Medicare
+63bae9e0,5114ce47,"Johnson, Mckenzie and Roberts",7d8ff7a4-26f,fa8e346f,PPO
+9f968cd7,4e23e0d5,Contreras-Morgan,b68056cb-922,8e9af14e,PPO
+14923a6d,8f7dd64b,Contreras-Morgan,e6ea36f2-538,6e6f1d73,Medicaid
+03359562,0a2625a3,Ramirez-Young,1c8d49c7-363,2cc8e78f,HMO
+15886a27,55e3c9c5,Clayton-Bender,434311ac-7af,ec5e4177,HMO
+301aa40e,45299abf,Richardson-Smith,89266fca-aa6,5e795baf,PPO
+2ad8b842,823da63c,"Johnson, Mckenzie and Roberts",e2cb181a-305,44884946,Medicaid
+3fcb26a2,0f97c16d,Contreras-Morgan,c86bdb38-105,53e7c245,Medicaid
+8533f47b,3e0b1ae2,Contreras-Morgan,89c17cd1-d23,57d97001,HMO
+5c996878,a4593f3d,Clayton-Bender,8e5644c2-9e0,b7e6178e,Medicare
+92c5e0c4,ec0f3c07,Richardson-Smith,086605ed-fc3,3b3cbd87,Medicaid
+0d788fcd,a8d25d78,"Johnson, Mckenzie and Roberts",35ef273d-719,07f4015f,PPO
+c9b1c7b0,3ebf4b05,Ramirez-Young,042e833a-02c,1fdbab76,Medicaid
+efdbf8ea,6ce6f4d0,Clayton-Bender,c9cb8b5b-4ca,b5085c21,PPO
+38b3d9b2,1a17dd2a,Clayton-Bender,6f4e5921-23b,d62c4937,HMO
+e183975a,0dcba9f5,"Johnson, Mckenzie and Roberts",16f85f52-c7f,393839ec,HMO
+4916c7bf,50bbc8d1,Clayton-Bender,f5adb508-f07,b84768e1,HMO
+c1f87e80,a780ed20,Clayton-Bender,fb64b805-897,c031c90b,Medicaid
+94cd751d,5ae1632d,Richardson-Smith,962b5cb5-dc8,17b10264,Medicaid
+8ee17183,f5944204,"Johnson, Mckenzie and Roberts",b9c123c5-dc4,d2ace825,Medicaid
+95c803e1,304f88b7,Ramirez-Young,0048f7cf-5e2,f0213cc9,Medicare
+ed7ac610,7303c86e,Clayton-Bender,ad8b8f72-998,8ddddeca,Medicaid
+06a5997e,1ef84b9b,Contreras-Morgan,bab976d9-8f4,eed76dab,PPO
+35fb0f1e,80bec8b8,Clayton-Bender,15709415-71b,99ada236,Medicare
+ae177e59,ff3e43cc,Clayton-Bender,9e1d2fd1-446,cdc06221,Medicaid
+1af161e1,831b66ce,"Johnson, Mckenzie and Roberts",8332899f-dfa,9c406fc2,PPO
+591c12df,847861ba,Richardson-Smith,a7236295-3b0,2bab6cf4,Medicaid
+f6a2cfc0,55c6d2bf,Ramirez-Young,e2f0e7c8-c28,3ee4976e,PPO
+78ca0ba5,f8844d42,Contreras-Morgan,dee6a28a-2c5,e169ff0b,PPO
+5595e29b,89cc613e,Richardson-Smith,4ff5c576-1f5,d0c1b86a,HMO
+773a360e,9eacb0ac,Ramirez-Young,c56011db-543,9f101e9d,HMO
+2568888e,79591e99,Contreras-Morgan,82302af0-d59,a1934db0,Medicaid
+1b4a47fc,7e114b88,Contreras-Morgan,7ae2bc30-3dc,de02f60c,PPO
+4729671d,368cc238,Richardson-Smith,92c559a6-937,a265e856,Medicaid
+9a3265cb,99f460d8,Richardson-Smith,5f0850d4-84a,d14a3226,Medicare
+adf510b8,a74544ba,Ramirez-Young,cd7f7e47-273,9c3c79fb,Medicare
+2ec2bc46,fd90a36b,Clayton-Bender,828df6ef-2d3,d207606a,Medicare
+3bfbfa0f,c5f9c2c5,"Johnson, Mckenzie and Roberts",e62f8027-0c5,d2b7439d,Medicare
+3fc9a57b,1fd41dbf,Contreras-Morgan,6c6ce6d7-155,aefe988c,Medicaid
+5ad07c97,c0470b3d,Ramirez-Young,3635c547-1ca,c9fba1db,PPO
+108c64d1,9cc68e3b,"Johnson, Mckenzie and Roberts",c16ed5de-7d1,94341c90,PPO
+71037301,a5484421,Contreras-Morgan,27abf376-a71,bc520f9c,Medicaid
+ce86a75d,74ad3a73,Ramirez-Young,2a4658d8-d39,57fafc77,Medicare
+aafe809c,aaf5079e,Ramirez-Young,c1fd7c33-b2d,ef2dbd22,PPO
+4985e18e,6a2f7553,Richardson-Smith,d141430c-73b,a0fd2294,Medicare
+c4299f85,4ca4a658,"Johnson, Mckenzie and Roberts",3cdcaa42-a15,cf078a75,HMO
+6c6c1409,e27c7d4f,Contreras-Morgan,de2db56b-587,fa3ecedc,PPO
+f0326a6b,10b1b1c0,"Johnson, Mckenzie and Roberts",98cfba34-7fc,0eb31a24,Medicaid
+1f694090,1ac75d91,Contreras-Morgan,cf4a85b6-2e1,b57fc4f5,PPO
+d6ee56a2,a7a3349c,Richardson-Smith,b1f53f88-dbc,e8cb4be8,Medicaid
+c67aeae8,6a707652,"Johnson, Mckenzie and Roberts",f8f301db-831,bfa44781,Medicaid
+df5ad21d,7c082db0,Ramirez-Young,62134386-913,2da76a4e,PPO
+64a06a0a,7af3abe8,"Johnson, Mckenzie and Roberts",03880d27-7e5,2e828b68,Medicare
+14f4f0fa,e58c03f4,Contreras-Morgan,7647f7a3-f6e,5e506d13,PPO
+6685aae5,756cb9c9,Richardson-Smith,86528140-7ef,70048ff3,Medicare
+f414a51e,468c6377,"Johnson, Mckenzie and Roberts",7f715301-7f4,0e364f41,PPO
+f02357ef,1c73e76d,Contreras-Morgan,3b5c28ad-5e3,b9c005b3,PPO
+6690c1cf,836166ec,Richardson-Smith,dcc313b8-a7e,a8a28228,Medicare
+ef9d90f6,ab6c2d79,"Johnson, Mckenzie and Roberts",3de3c416-234,57ff4651,Medicaid
+d98e292b,afc6a96f,Contreras-Morgan,dd113fe5-aae,6b4d00fc,Medicare
+327743c8,efe62bf2,Clayton-Bender,87b71725-27d,c8042bb8,Medicaid
+31c5dc39,28584459,Richardson-Smith,ce7509a1-b14,57b704ae,PPO
+68f10e27,183c2d18,Richardson-Smith,7ca4d231-d6c,870aa3bb,PPO
+7197270f,c258cb77,Contreras-Morgan,65650ee5-56f,f92a8de5,PPO
+fccd1f76,0a7b31dd,"Johnson, Mckenzie and Roberts",8f8b8d59-66f,6fb189c8,Medicare
+3038b416,4b1ad79e,Clayton-Bender,c659d015-aed,d36f377a,Medicaid
+ecceaa8c,3bfea74a,Ramirez-Young,4eebff7f-714,b57f1f9b,Medicare
+454a7660,8a2828bd,Contreras-Morgan,3dba28b1-053,dd00e9af,HMO
+ce6279d6,dc533dc6,Clayton-Bender,80e3bebf-d68,c68c1efb,PPO
+d4285fe3,53f20a43,Richardson-Smith,3429240d-fdc,88c78a1d,PPO
+f7d962ca,ba8ccbd8,Richardson-Smith,b01c4c32-3d5,c44d7708,HMO
+34f8052e,0ae40431,Clayton-Bender,215f1bd8-3ae,07a6afe0,PPO
+6e29fd36,79af9f1a,Contreras-Morgan,052b2f5e-246,8e0170d9,Medicaid
+e21beaf7,d59fe56a,Contreras-Morgan,e098d6eb-26c,d0c32433,Medicare
+c4c081a2,8ad20509,"Johnson, Mckenzie and Roberts",d57c70e9-6e7,10006261,Medicaid
+d2882c58,28390aa1,Richardson-Smith,706dd100-e29,88cf8ae6,PPO
+4a68b604,89810fe7,Clayton-Bender,d9ef4b63-611,bf3b90d1,Medicare
+53cdfe5c,11e8d6d0,Ramirez-Young,7a70665a-d34,30c6a7ae,Medicaid
+9dd6d969,36daa1b0,"Johnson, Mckenzie and Roberts",37511a21-d6b,f14ff31a,HMO
+4cd98549,2319a826,"Johnson, Mckenzie and Roberts",bf0f4a89-daa,b0ca2ab3,Medicare
+72cc3650,af440d2e,Richardson-Smith,ccc95459-94a,43fb5eb7,Medicaid
+0d1b2e81,6f45f4f0,"Johnson, Mckenzie and Roberts",0e97b01d-6b5,7c8ea6ff,HMO
+bc07b752,803050bd,Richardson-Smith,651acdf5-292,3f834a88,Medicare
+0ef8d6f8,43d7f84b,Contreras-Morgan,05069a66-bcc,877f44de,PPO
+85906dd6,a96da672,Contreras-Morgan,8797d63d-dd2,907ade0b,HMO
+bc4bd3d5,66bdafc2,Ramirez-Young,754282ec-b03,66046ac8,Medicaid
+9afb49c1,faafb7e9,Richardson-Smith,81362941-6ae,3850fc9e,HMO
+c926505c,612bb6d5,Contreras-Morgan,9166dde7-bd9,c2ac9fd6,PPO
+f74afb25,25e9813d,Contreras-Morgan,c14492aa-e2e,5c25b018,PPO
+4249edfc,4a6f9935,Richardson-Smith,091f7c3f-7e1,f4b69e2e,HMO
+9551be72,c3459804,Clayton-Bender,de90ec9c-910,3b1df159,Medicaid
+d7cbc9fe,7d52906d,"Johnson, Mckenzie and Roberts",22c3d82c-fdf,851f8fa7,HMO
+bb6d32ea,0591d90d,"Johnson, Mckenzie and Roberts",7c13a154-816,0b8dcf7d,PPO
+de4fd62d,e3c4449c,Clayton-Bender,cd82109e-444,ed0104c7,Medicare
+f4677d39,da144dbb,Contreras-Morgan,dbfb9c3a-d23,31371a9f,HMO
+fbd81b54,8344b9a4,Richardson-Smith,e58addc3-cef,e3f8e6e4,HMO
+a5218337,57380d89,Contreras-Morgan,2bfec42b-ad5,b5b6be05,PPO
+3eb7baf8,58f54956,Contreras-Morgan,0a04757b-99a,509b0a67,HMO
+94ca526a,c7c159b3,"Johnson, Mckenzie and Roberts",1b772dfd-40b,ce72b96b,HMO
+e121c054,f6d6238f,Richardson-Smith,64a2ba74-1d5,7b58612d,Medicare
+8d6bd9f0,489655cd,Contreras-Morgan,e76890e2-d1b,ae831198,Medicaid
+affcaa76,5c4ffc45,Ramirez-Young,e820a07b-06a,c3c983e1,Medicare
+0eb74aba,23a1c6c7,Ramirez-Young,554f3d24-3af,6fa0879d,Medicaid
+3bdca827,8d67ab39,"Johnson, Mckenzie and Roberts",c498aff3-fc0,b757201f,PPO
+01e1b9fd,6a5ee963,Contreras-Morgan,cf96b6dc-217,165c01de,Medicaid
+3f474877,0d650eca,Richardson-Smith,0de48d14-e3e,65961e1f,Medicaid
+5be82439,876ce83d,Richardson-Smith,192bdf77-aa3,86433b91,PPO
+ea239192,0c832dc9,Contreras-Morgan,4e009c3f-33c,c2596598,HMO
+5fe5ef6f,49dc6f38,"Johnson, Mckenzie and Roberts",16920a3a-c59,285f3125,PPO
+37e2b812,30b0504d,"Johnson, Mckenzie and Roberts",f44ab073-0f1,81327f28,Medicare
+717cdef5,83025bc2,Contreras-Morgan,e4425433-08d,2e291996,Medicare
+92afa44f,628ac789,Ramirez-Young,99fc8cb2-d79,e122b83a,PPO
+bc763942,112bc667,Clayton-Bender,4acc3879-6ee,46fbd2f3,Medicare
+f23b3a4a,4912230f,Ramirez-Young,713bf41f-65b,87d8b2a4,HMO
+4d9ab8b5,8fd758cf,"Johnson, Mckenzie and Roberts",df160809-4c4,91bba49c,Medicare
+57cbdba6,10c17487,"Johnson, Mckenzie and Roberts",1abc6fbc-ddb,7f7fd201,PPO
+807cedab,becb2473,"Johnson, Mckenzie and Roberts",844c5adf-e1c,e03b2ffa,Medicaid
+9cab7a8c,d53f6813,Ramirez-Young,2d3e5e33-8e0,4a0dae83,HMO
+e2fdd2e6,d64ebc83,Ramirez-Young,ea27e8af-b97,b10b78e2,PPO
+150c9ccc,998ede47,Contreras-Morgan,c4e69696-734,0675d909,Medicaid
+ba966355,7306d406,Richardson-Smith,ac37acbd-837,e85ada5c,PPO
+9714c424,e29c3002,Richardson-Smith,d69f37be-9f2,f8a50cf4,Medicaid
+610c102b,b12f300a,Richardson-Smith,b68b76e8-c4e,f6ed086e,Medicaid
+849b1d89,f2b726da,"Johnson, Mckenzie and Roberts",bb0faef5-937,38aab431,Medicaid
+32f7ba21,f3bdccee,Contreras-Morgan,a2b2545b-84d,270157d5,Medicaid
+b80f1015,c4855afd,Ramirez-Young,8b73649a-9f7,b4e2a4d9,Medicaid
+4709fb3e,8380cf15,Clayton-Bender,fb904030-ee5,ec47ae5f,Medicare
+b4eec9e7,306de76d,Clayton-Bender,8f43a4de-84a,7bf9dae9,Medicaid
+3bcfa6c5,fb453628,Richardson-Smith,8f32f4d7-fc9,6b9fe6bd,HMO
+1d05abf3,f3bdcedd,Clayton-Bender,406f85e4-982,38b77d44,HMO
+3522afe7,f5e2f3a2,Clayton-Bender,ec6c5e88-690,2d2a00db,Medicare
+2ecfcbd4,ae9dac56,Ramirez-Young,de430f3e-022,0cfbd13a,PPO
+f974b0d8,4a0e579b,Ramirez-Young,cae784dc-c27,6d857284,HMO
+aac97cab,f386e83a,Contreras-Morgan,4ce9c019-46a,c995b773,Medicaid
+4acec2bb,ea97dad6,Clayton-Bender,8ed71382-85d,b2c57aa7,PPO
+a2995315,1f19e85b,Richardson-Smith,cb9cd206-9ac,126870e3,HMO
+c9c70631,b5a550bb,Richardson-Smith,c588c347-671,2ced4020,Medicaid
+45f42acd,f691cc59,"Johnson, Mckenzie and Roberts",1972e6e6-166,fa12d5a2,Medicaid
+07727aca,a04759c7,Ramirez-Young,5290f278-e91,d301903c,Medicare
+a615341f,39e2a336,Clayton-Bender,c78517ca-ea8,424d93c1,PPO
+88cf63ed,08914a6d,Richardson-Smith,1768c8e7-75a,d1e15260,Medicare
+2028e7da,632161e6,Contreras-Morgan,a4de8697-1f9,a667bc76,Medicare
+d3592188,3debe303,Ramirez-Young,db0c3236-8cb,3330ee79,HMO
+0998f15c,b33b005a,"Johnson, Mckenzie and Roberts",652eb931-456,0464864e,Medicaid
+51ea83b3,2bb60abf,Clayton-Bender,1cf76248-af2,31846b0f,PPO
+983dcddd,17adcfe7,Ramirez-Young,0eb056a3-10b,f236dd65,Medicare
+b13899eb,5b92aad2,"Johnson, Mckenzie and Roberts",e4a9beb6-8d9,875811f3,HMO
+4b3445c6,6ad93576,Ramirez-Young,dad48ae1-fb7,784288bd,Medicare
+6edf62d3,6223a98c,Ramirez-Young,ab54da69-708,889a6eaf,HMO
+7252edc3,e8106011,Richardson-Smith,df239166-0f8,317a827e,HMO
+f207126c,683e32dd,"Johnson, Mckenzie and Roberts",42d5c450-6b5,a4a3754f,PPO
+fd1ad3be,a65d8e10,Richardson-Smith,ce27d10a-1f1,91186463,Medicaid
+a96f5e67,6171c852,Ramirez-Young,82ce0516-d61,9ac879e0,HMO
+b55ac1c7,e2c13579,Richardson-Smith,9acd8da0-26c,c553c422,HMO
+1299ba5c,16808cca,Contreras-Morgan,b60319b7-831,8d8c4184,Medicaid
+86c5ed62,167a63d2,Clayton-Bender,c65d2f9a-9e6,44540ae2,Medicare
+851247c9,7f455289,Clayton-Bender,669b44cb-7f3,48249b5e,PPO
+91976229,bfe075a6,"Johnson, Mckenzie and Roberts",6ad6c355-0eb,33cf22c4,HMO
+ceedb6b0,b94f4a3d,"Johnson, Mckenzie and Roberts",dda4b530-eee,07fb7ee4,Medicare
+7726ab08,9f3d34b8,Ramirez-Young,b7186aac-07e,6cea8e94,Medicare
+cd379b4e,aa2766f1,Richardson-Smith,842f6b81-3ab,3263bc3e,HMO
+6312c466,272efa89,Richardson-Smith,26e2614f-d7a,a0f746a5,Medicaid
+c7ffc4ea,6f545fef,Richardson-Smith,2ee1dae8-fb2,659fadbf,HMO
+4d67a05e,e446ada0,Richardson-Smith,e9026eed-882,ce84f180,Medicaid
+1f5e4d3c,6d9ab3a6,Ramirez-Young,f5686cfe-b3f,17d3a366,Medicare
+984d5047,75ca2ed4,"Johnson, Mckenzie and Roberts",927f853b-16f,43f27d1c,Medicaid
+bed1b879,84e0abe2,"Johnson, Mckenzie and Roberts",2a95b945-091,2f41a6cf,Medicare
+7de1163f,2c46efa8,Richardson-Smith,67eebd85-9b1,cbfc5ada,HMO
+76bead65,9813910c,"Johnson, Mckenzie and Roberts",cab6a056-b2b,82bf2a3a,Medicare
+93b3c9e5,b8b17676,Richardson-Smith,da056d8e-133,af26c933,Medicare
+b691d23a,58c719fc,Contreras-Morgan,3d23a4ec-d83,456d2cc1,HMO
+d453044e,4c465250,"Johnson, Mckenzie and Roberts",584a1f8b-7b4,b7dad90e,HMO
+b6910f7a,f915b612,Contreras-Morgan,9750428c-b1c,271b42b5,Medicare
+7d3a40f4,36045efd,Richardson-Smith,cb7da4b1-89f,9ea9fc77,PPO
+38102309,243b4a21,Clayton-Bender,500515ca-f9d,a61fdcb6,PPO
+aca9dfeb,c1bde97d,Ramirez-Young,62c4ad94-db8,e0ef268b,Medicare
+65361ac9,1446694e,"Johnson, Mckenzie and Roberts",b0d6fa8f-472,799a7119,PPO
+60c3d687,ef68d565,"Johnson, Mckenzie and Roberts",e70f0326-bc9,8d0a470f,Medicaid
+4a76dacd,4c5dcdf7,Richardson-Smith,3fa77e01-d2b,da342fc0,Medicaid
+995575aa,81a99083,Contreras-Morgan,696fcd7d-1f5,a3d7c172,Medicaid
+a63b0301,91d2b450,Richardson-Smith,e8de2101-8f9,39f03616,HMO
+7fbd3bb5,87f5e365,"Johnson, Mckenzie and Roberts",0d496a21-c54,0fe4c8f9,PPO
+be00e0f9,d5ee814f,Contreras-Morgan,e9e04c1c-e46,7b517c34,PPO
+a9aad338,ee40fc4f,"Johnson, Mckenzie and Roberts",a57a98be-45a,6bd4fe1c,Medicare
+a092e471,820d6915,Clayton-Bender,5aa875e1-c90,ebf4f44b,Medicaid
+8b8bf097,4b4bfc1f,Ramirez-Young,7cf76177-08e,78752723,Medicaid
+557679d1,75861a81,Contreras-Morgan,f71bbd0f-5b0,c5969465,Medicare
+f5dbc496,85ba2a07,Ramirez-Young,5e9a59ac-a4f,4b52f1cd,Medicare
+05eec534,6e9ecc9f,"Johnson, Mckenzie and Roberts",d8b1aa53-2f1,997888d4,Medicaid
+9b65f069,7cb0962d,Ramirez-Young,1c124ae3-03e,37164200,HMO
+534cbf5c,0f2becdc,Contreras-Morgan,4d05deb3-e5b,cdb83b0f,HMO
+570ac10d,af045b0c,"Johnson, Mckenzie and Roberts",68d33bf6-b0d,79f40130,Medicaid
+383fd22a,072ab9d8,Ramirez-Young,92aac343-7dc,68673907,Medicare
+133935ad,be62d816,Ramirez-Young,faedabe3-45a,9482bb5b,Medicaid
+90e91c39,42f3d443,Clayton-Bender,cf22c741-13f,ca236c7d,Medicare
+68f889ba,f9e13b09,Contreras-Morgan,9181871a-dbe,ba0084ef,Medicaid
+d1edeaa1,b4aafc34,Clayton-Bender,1b1ca24c-bbd,6752cd2b,PPO
+e59f317c,f98d4594,Ramirez-Young,0b9aa5b5-ddd,e6a6c5af,PPO
+61e4b1d8,8485e40e,Ramirez-Young,ffba07a7-2ec,315879b5,HMO
+e0c354f7,28dbd158,Ramirez-Young,8100e79b-9f8,8dd6187e,Medicaid
+4789ce4c,320f3636,Richardson-Smith,52308180-e69,011c84b7,HMO
+d0f057f1,262ee0d6,Richardson-Smith,54113f79-5a6,0f590feb,Medicaid
+2d4b666c,3869c73d,Contreras-Morgan,f7645f78-acf,5c6f40d9,Medicaid
+ea5bc723,88a4bbd1,Clayton-Bender,595b224c-db2,d9cb5476,Medicare
+01bd1986,b1b1dc5c,Richardson-Smith,e9e3e536-780,53718597,Medicare
+2ca510e7,1b30f083,Richardson-Smith,0b380cde-751,cfe401fb,PPO
+53ebadd6,a7f20f07,Contreras-Morgan,8d256a71-285,38272239,PPO
+b066e05e,e2a1c6a0,Contreras-Morgan,4b6e995c-89d,3d33fabd,HMO
+c31a6522,6167a8d5,Richardson-Smith,a77169fd-08e,04bb93fe,HMO
+264a32b8,07916465,Richardson-Smith,795c8cea-1a5,66e3a75f,Medicare
+91fcf60d,5c4184a6,Clayton-Bender,12a3d38d-c23,41e66cac,Medicaid
+5d44a7bc,9b921bfa,"Johnson, Mckenzie and Roberts",e7162247-58f,7fb8f1aa,Medicare
+55cb2a44,37d1739d,Ramirez-Young,f92d3162-1ec,ec0e4b19,PPO
+c5426e80,2833f5ff,Richardson-Smith,1fe11cbf-113,6da172cb,PPO
+1c2b380a,236b764a,Ramirez-Young,9720f4e0-269,9a10cac8,PPO
+cb816362,b8577f71,Contreras-Morgan,cb202acb-878,77f60960,Medicaid
+020c8269,59c56248,Clayton-Bender,f9e234e2-50d,c450e882,Medicaid
+755da218,d90e514f,"Johnson, Mckenzie and Roberts",3594cb78-2a5,56966c87,PPO
+4b9275d4,ca569eff,Richardson-Smith,5de4c6d9-9b0,bf4c35b9,PPO
+acfc5131,0d781fb5,Clayton-Bender,4786244e-fe6,5f71b198,Medicaid
+8cb6b241,9c33208e,Richardson-Smith,526df9d6-a7b,1b5e6b2c,PPO
+f1795cc7,2efe48e1,Clayton-Bender,471a5625-4e4,171b1631,PPO
+75762dd2,608397db,Clayton-Bender,0f51d060-da1,805d4015,PPO
+6dd21c9f,879d468e,Contreras-Morgan,54ce2d5d-79c,fe3dae0e,Medicare
+04520ae3,8361c6e1,Ramirez-Young,f4100c27-930,2e6a79ec,Medicare
+c92c07a5,361f55e6,Richardson-Smith,6871a04a-5d7,d700a610,Medicare
+a25c4cc0,6ad88a94,Contreras-Morgan,c80bb674-b20,3994165f,Medicaid
+442825b1,dc4de128,Clayton-Bender,ab7a889a-f22,98180742,HMO
+b8c27b41,64956d76,Richardson-Smith,10547f62-a54,4755253e,PPO
+7992ce49,433e30e3,Richardson-Smith,60c77d36-d06,9fb60834,HMO
+317bb1e7,4b67b8bf,"Johnson, Mckenzie and Roberts",54479e1e-388,bbe0e7ca,Medicaid
+ee3b51e1,2095fbd2,Richardson-Smith,d1b2fc9d-64a,c2bb8eed,HMO
+35597755,8fb9ca89,Ramirez-Young,07daa890-281,25c030ef,Medicaid
+d25227c3,f6826854,Contreras-Morgan,10b321b6-a41,71e843f5,Medicare
+0d82c101,a15559f0,Contreras-Morgan,09228d9c-da6,75561bca,PPO
+f2a5cbdb,2a184b75,Clayton-Bender,97af4534-798,f8dbd645,HMO

@@ -1,0 +1,528 @@
+location_id,clinic_name,room_number
+1,Wilson-Woods,161
+2,Wilson-Woods,980
+3,Black-Andersen,624
+4,Wilson-Woods,637
+5,"Jimenez, Ramirez and Morris",392
+6,Todd-Lewis,691
+7,Todd-Lewis,340
+8,Wilson-Woods,593
+9,"Jimenez, Ramirez and Morris",700
+10,"Jimenez, Ramirez and Morris",653
+11,Black-Andersen,178
+12,"Jimenez, Ramirez and Morris",929
+13,Black-Andersen,927
+14,"Jimenez, Ramirez and Morris",796
+15,Black-Andersen,799
+16,Black-Andersen,535
+17,Wilson-Woods,505
+18,Todd-Lewis,664
+19,Todd-Lewis,488
+20,"Jimenez, Ramirez and Morris",626
+21,"Jimenez, Ramirez and Morris",177
+22,Todd-Lewis,562
+23,Wilson-Woods,758
+24,Black-Andersen,594
+25,Todd-Lewis,881
+26,Black-Andersen,619
+27,"Jimenez, Ramirez and Morris",583
+28,Black-Andersen,667
+29,Wilson-Woods,129
+30,Wilson-Woods,282
+31,"Jimenez, Ramirez and Morris",221
+32,"Jimenez, Ramirez and Morris",492
+33,Black-Andersen,131
+34,Black-Andersen,959
+35,"Jimenez, Ramirez and Morris",414
+36,Todd-Lewis,750
+37,"Jimenez, Ramirez and Morris",330
+38,Black-Andersen,840
+39,Wilson-Woods,489
+40,"Jimenez, Ramirez and Morris",321
+41,"Jimenez, Ramirez and Morris",426
+42,"Jimenez, Ramirez and Morris",577
+43,Todd-Lewis,517
+44,"Jimenez, Ramirez and Morris",507
+45,Todd-Lewis,443
+46,Wilson-Woods,250
+47,"Jimenez, Ramirez and Morris",384
+48,"Jimenez, Ramirez and Morris",820
+49,Wilson-Woods,407
+50,"Jimenez, Ramirez and Morris",240
+51,Black-Andersen,300
+52,Todd-Lewis,395
+53,Wilson-Woods,914
+54,"Jimenez, Ramirez and Morris",165
+55,"Jimenez, Ramirez and Morris",751
+56,Todd-Lewis,992
+57,Black-Andersen,266
+58,Todd-Lewis,595
+59,Wilson-Woods,306
+60,"Jimenez, Ramirez and Morris",844
+61,Todd-Lewis,964
+62,"Jimenez, Ramirez and Morris",196
+63,"Jimenez, Ramirez and Morris",474
+64,Todd-Lewis,424
+65,Black-Andersen,317
+66,Black-Andersen,186
+67,Todd-Lewis,318
+68,Todd-Lewis,123
+69,"Jimenez, Ramirez and Morris",366
+70,Wilson-Woods,587
+71,Black-Andersen,264
+72,Todd-Lewis,306
+73,Wilson-Woods,584
+74,Wilson-Woods,638
+75,Wilson-Woods,272
+76,Black-Andersen,584
+77,Wilson-Woods,734
+78,Black-Andersen,527
+79,Todd-Lewis,180
+80,Todd-Lewis,265
+81,Black-Andersen,238
+82,Todd-Lewis,485
+83,"Jimenez, Ramirez and Morris",443
+84,Todd-Lewis,498
+85,"Jimenez, Ramirez and Morris",750
+86,"Jimenez, Ramirez and Morris",505
+87,Black-Andersen,957
+88,Black-Andersen,312
+89,"Jimenez, Ramirez and Morris",266
+90,"Jimenez, Ramirez and Morris",520
+91,Todd-Lewis,953
+92,"Jimenez, Ramirez and Morris",603
+93,Todd-Lewis,732
+94,Todd-Lewis,425
+95,Todd-Lewis,738
+96,Black-Andersen,773
+97,Black-Andersen,911
+98,Black-Andersen,482
+99,"Jimenez, Ramirez and Morris",803
+100,Black-Andersen,818
+101,Todd-Lewis,888
+102,Todd-Lewis,917
+103,Todd-Lewis,295
+104,Black-Andersen,470
+105,Todd-Lewis,375
+106,Wilson-Woods,875
+107,Todd-Lewis,402
+108,Todd-Lewis,251
+109,Todd-Lewis,334
+110,Todd-Lewis,571
+111,Todd-Lewis,717
+112,Wilson-Woods,793
+113,"Jimenez, Ramirez and Morris",553
+114,Todd-Lewis,248
+115,Todd-Lewis,161
+116,Todd-Lewis,322
+117,Wilson-Woods,212
+118,Black-Andersen,524
+119,Black-Andersen,282
+120,Wilson-Woods,121
+121,Black-Andersen,777
+122,Black-Andersen,811
+123,"Jimenez, Ramirez and Morris",429
+124,Wilson-Woods,838
+125,"Jimenez, Ramirez and Morris",529
+126,"Jimenez, Ramirez and Morris",420
+127,Wilson-Woods,332
+128,Black-Andersen,544
+129,Todd-Lewis,502
+130,Black-Andersen,712
+131,Wilson-Woods,461
+132,Todd-Lewis,260
+133,"Jimenez, Ramirez and Morris",129
+134,Todd-Lewis,359
+135,Black-Andersen,725
+136,Black-Andersen,463
+137,"Jimenez, Ramirez and Morris",705
+138,Todd-Lewis,282
+139,Black-Andersen,487
+140,"Jimenez, Ramirez and Morris",463
+141,Todd-Lewis,329
+142,Todd-Lewis,397
+143,Todd-Lewis,912
+144,Todd-Lewis,538
+145,Black-Andersen,975
+146,"Jimenez, Ramirez and Morris",818
+147,Wilson-Woods,911
+148,Black-Andersen,783
+149,Wilson-Woods,857
+150,Wilson-Woods,381
+151,Todd-Lewis,204
+152,Wilson-Woods,239
+153,"Jimenez, Ramirez and Morris",764
+154,"Jimenez, Ramirez and Morris",696
+155,Todd-Lewis,217
+156,Wilson-Woods,578
+157,Todd-Lewis,360
+158,Wilson-Woods,304
+159,Black-Andersen,502
+160,"Jimenez, Ramirez and Morris",451
+161,"Jimenez, Ramirez and Morris",147
+162,Wilson-Woods,396
+163,Todd-Lewis,818
+164,Todd-Lewis,831
+165,Wilson-Woods,908
+166,Black-Andersen,351
+167,Todd-Lewis,811
+168,"Jimenez, Ramirez and Morris",913
+169,Black-Andersen,368
+170,Wilson-Woods,852
+171,Todd-Lewis,181
+172,"Jimenez, Ramirez and Morris",663
+173,Wilson-Woods,614
+174,"Jimenez, Ramirez and Morris",258
+175,Wilson-Woods,702
+176,Black-Andersen,244
+177,Black-Andersen,416
+178,Black-Andersen,485
+179,Black-Andersen,499
+180,"Jimenez, Ramirez and Morris",762
+181,Wilson-Woods,815
+182,Todd-Lewis,511
+183,Black-Andersen,259
+184,Black-Andersen,856
+185,Todd-Lewis,434
+186,"Jimenez, Ramirez and Morris",886
+187,Wilson-Woods,390
+188,Wilson-Woods,673
+189,Wilson-Woods,687
+190,Black-Andersen,405
+191,Todd-Lewis,892
+192,Todd-Lewis,219
+193,Black-Andersen,233
+194,Wilson-Woods,831
+195,Black-Andersen,188
+196,"Jimenez, Ramirez and Morris",296
+197,Wilson-Woods,872
+198,Wilson-Woods,295
+199,Todd-Lewis,289
+200,Todd-Lewis,598
+201,Todd-Lewis,982
+202,Black-Andersen,989
+203,Wilson-Woods,639
+204,Black-Andersen,582
+205,Black-Andersen,310
+206,Todd-Lewis,480
+207,"Jimenez, Ramirez and Morris",206
+208,Black-Andersen,508
+209,Wilson-Woods,576
+210,Todd-Lewis,596
+211,Black-Andersen,631
+212,Todd-Lewis,867
+213,"Jimenez, Ramirez and Morris",714
+214,Black-Andersen,592
+215,Todd-Lewis,236
+216,"Jimenez, Ramirez and Morris",355
+217,Todd-Lewis,766
+218,"Jimenez, Ramirez and Morris",906
+219,Todd-Lewis,658
+220,Todd-Lewis,935
+221,Black-Andersen,492
+222,"Jimenez, Ramirez and Morris",405
+223,Black-Andersen,475
+224,"Jimenez, Ramirez and Morris",800
+225,"Jimenez, Ramirez and Morris",854
+226,Black-Andersen,255
+227,"Jimenez, Ramirez and Morris",346
+228,"Jimenez, Ramirez and Morris",273
+229,"Jimenez, Ramirez and Morris",759
+230,"Jimenez, Ramirez and Morris",596
+231,Wilson-Woods,264
+232,Black-Andersen,489
+233,"Jimenez, Ramirez and Morris",808
+234,"Jimenez, Ramirez and Morris",833
+235,Todd-Lewis,638
+236,"Jimenez, Ramirez and Morris",178
+237,"Jimenez, Ramirez and Morris",103
+238,"Jimenez, Ramirez and Morris",191
+239,"Jimenez, Ramirez and Morris",985
+240,Wilson-Woods,227
+241,"Jimenez, Ramirez and Morris",957
+242,Black-Andersen,335
+243,Todd-Lewis,146
+244,Todd-Lewis,143
+245,Black-Andersen,171
+246,Wilson-Woods,720
+247,Black-Andersen,551
+248,"Jimenez, Ramirez and Morris",908
+249,"Jimenez, Ramirez and Morris",527
+250,Todd-Lewis,349
+251,Todd-Lewis,390
+252,Todd-Lewis,755
+253,Wilson-Woods,739
+254,Wilson-Woods,551
+255,"Jimenez, Ramirez and Morris",938
+256,Todd-Lewis,721
+257,Wilson-Woods,648
+258,"Jimenez, Ramirez and Morris",286
+259,Black-Andersen,299
+260,Wilson-Woods,913
+261,Black-Andersen,605
+262,Todd-Lewis,980
+263,Wilson-Woods,389
+264,Todd-Lewis,444
+265,Wilson-Woods,414
+266,Wilson-Woods,645
+267,Todd-Lewis,126
+268,"Jimenez, Ramirez and Morris",695
+269,Wilson-Woods,840
+270,Wilson-Woods,790
+271,"Jimenez, Ramirez and Morris",166
+272,"Jimenez, Ramirez and Morris",669
+273,Wilson-Woods,246
+274,Todd-Lewis,308
+275,Wilson-Woods,504
+276,"Jimenez, Ramirez and Morris",597
+277,Wilson-Woods,305
+278,Black-Andersen,846
+279,Wilson-Woods,721
+280,Wilson-Woods,371
+281,"Jimenez, Ramirez and Morris",876
+282,Wilson-Woods,166
+283,Wilson-Woods,726
+284,Wilson-Woods,204
+285,Todd-Lewis,974
+286,"Jimenez, Ramirez and Morris",932
+287,"Jimenez, Ramirez and Morris",611
+288,Wilson-Woods,678
+289,Wilson-Woods,591
+290,"Jimenez, Ramirez and Morris",368
+291,Todd-Lewis,190
+292,"Jimenez, Ramirez and Morris",146
+293,Black-Andersen,415
+294,Todd-Lewis,848
+295,"Jimenez, Ramirez and Morris",307
+296,"Jimenez, Ramirez and Morris",448
+297,Todd-Lewis,149
+298,Wilson-Woods,805
+299,Black-Andersen,298
+300,Black-Andersen,809
+301,Black-Andersen,318
+302,Todd-Lewis,878
+303,Wilson-Woods,602
+304,Todd-Lewis,866
+305,Todd-Lewis,963
+306,Black-Andersen,103
+307,Wilson-Woods,699
+308,Wilson-Woods,981
+309,Black-Andersen,977
+310,Black-Andersen,802
+311,"Jimenez, Ramirez and Morris",538
+312,Black-Andersen,747
+313,Todd-Lewis,860
+314,Todd-Lewis,551
+315,"Jimenez, Ramirez and Morris",875
+316,Todd-Lewis,772
+317,Todd-Lewis,784
+318,Todd-Lewis,604
+319,Todd-Lewis,959
+320,"Jimenez, Ramirez and Morris",494
+321,"Jimenez, Ramirez and Morris",910
+322,Wilson-Woods,761
+323,Wilson-Woods,778
+324,Wilson-Woods,693
+325,Todd-Lewis,495
+326,Black-Andersen,319
+327,Black-Andersen,363
+328,"Jimenez, Ramirez and Morris",760
+329,Todd-Lewis,900
+330,Todd-Lewis,690
+331,"Jimenez, Ramirez and Morris",197
+332,"Jimenez, Ramirez and Morris",858
+333,Black-Andersen,515
+334,"Jimenez, Ramirez and Morris",158
+335,"Jimenez, Ramirez and Morris",996
+336,Todd-Lewis,414
+337,Todd-Lewis,417
+338,Todd-Lewis,163
+339,Black-Andersen,671
+340,Wilson-Woods,803
+341,Todd-Lewis,660
+342,Todd-Lewis,144
+343,Black-Andersen,314
+344,"Jimenez, Ramirez and Morris",312
+345,"Jimenez, Ramirez and Morris",159
+346,"Jimenez, Ramirez and Morris",387
+347,Black-Andersen,966
+348,Black-Andersen,902
+349,Todd-Lewis,718
+350,Wilson-Woods,446
+351,Black-Andersen,203
+352,Black-Andersen,379
+353,Black-Andersen,855
+354,Wilson-Woods,206
+355,Todd-Lewis,569
+356,Black-Andersen,784
+357,"Jimenez, Ramirez and Morris",647
+358,"Jimenez, Ramirez and Morris",276
+359,"Jimenez, Ramirez and Morris",981
+360,"Jimenez, Ramirez and Morris",746
+361,Wilson-Woods,284
+362,"Jimenez, Ramirez and Morris",970
+363,"Jimenez, Ramirez and Morris",566
+364,Todd-Lewis,989
+365,"Jimenez, Ramirez and Morris",967
+366,Todd-Lewis,135
+367,Wilson-Woods,196
+368,Wilson-Woods,718
+369,Todd-Lewis,745
+370,Todd-Lewis,158
+371,"Jimenez, Ramirez and Morris",835
+372,Wilson-Woods,443
+373,"Jimenez, Ramirez and Morris",710
+374,Black-Andersen,222
+375,Wilson-Woods,927
+376,"Jimenez, Ramirez and Morris",333
+377,Wilson-Woods,991
+378,Wilson-Woods,376
+379,Black-Andersen,466
+380,Wilson-Woods,891
+381,Todd-Lewis,976
+382,Wilson-Woods,773
+383,"Jimenez, Ramirez and Morris",319
+384,Todd-Lewis,988
+385,"Jimenez, Ramirez and Morris",544
+386,Todd-Lewis,905
+387,Black-Andersen,817
+388,Todd-Lewis,608
+389,"Jimenez, Ramirez and Morris",134
+390,Black-Andersen,705
+391,Black-Andersen,887
+392,Wilson-Woods,484
+393,Black-Andersen,383
+394,Black-Andersen,472
+395,"Jimenez, Ramirez and Morris",864
+396,Black-Andersen,389
+397,Black-Andersen,950
+398,"Jimenez, Ramirez and Morris",509
+399,Todd-Lewis,576
+400,"Jimenez, Ramirez and Morris",351
+401,Black-Andersen,263
+402,"Jimenez, Ramirez and Morris",391
+403,Todd-Lewis,246
+404,Todd-Lewis,378
+405,Todd-Lewis,116
+406,"Jimenez, Ramirez and Morris",613
+407,Black-Andersen,284
+408,Wilson-Woods,713
+409,Wilson-Woods,660
+410,Todd-Lewis,203
+411,"Jimenez, Ramirez and Morris",294
+412,Todd-Lewis,806
+413,Todd-Lewis,751
+414,Black-Andersen,135
+415,Wilson-Woods,354
+416,"Jimenez, Ramirez and Morris",654
+417,Wilson-Woods,288
+418,Wilson-Woods,201
+419,"Jimenez, Ramirez and Morris",722
+420,Black-Andersen,893
+421,Wilson-Woods,472
+422,Black-Andersen,137
+423,Todd-Lewis,423
+424,"Jimenez, Ramirez and Morris",784
+425,"Jimenez, Ramirez and Morris",951
+426,Black-Andersen,858
+427,Wilson-Woods,936
+428,Black-Andersen,119
+429,"Jimenez, Ramirez and Morris",799
+430,Black-Andersen,829
+431,Black-Andersen,436
+432,Todd-Lewis,800
+433,Black-Andersen,123
+434,Black-Andersen,290
+435,Black-Andersen,210
+436,Todd-Lewis,440
+437,"Jimenez, Ramirez and Morris",349
+438,Black-Andersen,385
+439,Black-Andersen,521
+440,"Jimenez, Ramirez and Morris",116
+441,Black-Andersen,567
+442,Wilson-Woods,130
+443,Black-Andersen,292
+444,Wilson-Woods,736
+445,Wilson-Woods,771
+446,"Jimenez, Ramirez and Morris",410
+447,Black-Andersen,555
+448,Wilson-Woods,146
+449,Wilson-Woods,919
+450,Todd-Lewis,529
+451,"Jimenez, Ramirez and Morris",408
+452,Wilson-Woods,610
+453,"Jimenez, Ramirez and Morris",926
+454,Wilson-Woods,338
+455,Black-Andersen,952
+456,"Jimenez, Ramirez and Morris",362
+457,"Jimenez, Ramirez and Morris",126
+458,Wilson-Woods,971
+459,Wilson-Woods,532
+460,"Jimenez, Ramirez and Morris",947
+461,Wilson-Woods,424
+462,Black-Andersen,852
+463,Black-Andersen,608
+464,"Jimenez, Ramirez and Morris",389
+465,"Jimenez, Ramirez and Morris",459
+466,Black-Andersen,998
+467,Wilson-Woods,263
+468,"Jimenez, Ramirez and Morris",606
+469,Black-Andersen,287
+470,"Jimenez, Ramirez and Morris",547
+471,"Jimenez, Ramirez and Morris",792
+472,Wilson-Woods,640
+473,"Jimenez, Ramirez and Morris",686
+474,Wilson-Woods,422
+475,Todd-Lewis,450
+476,Black-Andersen,150
+477,Black-Andersen,366
+478,"Jimenez, Ramirez and Morris",966
+479,Wilson-Woods,767
+480,Wilson-Woods,152
+481,Todd-Lewis,573
+482,"Jimenez, Ramirez and Morris",890
+483,Black-Andersen,117
+484,Black-Andersen,995
+485,Wilson-Woods,741
+486,Wilson-Woods,223
+487,Wilson-Woods,300
+488,"Jimenez, Ramirez and Morris",806
+489,"Jimenez, Ramirez and Morris",687
+490,Black-Andersen,604
+491,Wilson-Woods,760
+492,"Jimenez, Ramirez and Morris",675
+493,Wilson-Woods,733
+494,Wilson-Woods,878
+495,Black-Andersen,434
+496,Wilson-Woods,925
+497,Black-Andersen,522
+498,Wilson-Woods,260
+499,Wilson-Woods,765
+500,Todd-Lewis,645
+501,Wilson-Woods,298
+502,Black-Andersen,574
+503,Wilson-Woods,939
+504,Wilson-Woods,475
+505,Black-Andersen,190
+506,"Jimenez, Ramirez and Morris",829
+507,Todd-Lewis,789
+508,Todd-Lewis,238
+509,Black-Andersen,742
+510,Black-Andersen,513
+511,Wilson-Woods,131
+512,Wilson-Woods,465
+513,Wilson-Woods,910
+514,Black-Andersen,569
+515,Todd-Lewis,747
+516,Black-Andersen,458
+517,Black-Andersen,484
+518,Black-Andersen,348
+519,Todd-Lewis,365
+520,Todd-Lewis,339
+521,Todd-Lewis,871
+522,Black-Andersen,550
+523,Wilson-Woods,662
+524,Wilson-Woods,663
+525,Wilson-Woods,688
+526,Black-Andersen,876
+527,Todd-Lewis,886

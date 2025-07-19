@@ -1,0 +1,186 @@
+provider_id,doctor_name,doctor_title,doctor_department
+1,Jonathan Melendez,NP,Regulatory affairs officer
+2,Christopher Baker,MD,Patent attorney
+3,Jonathan Peters,PA,Location manager
+4,Larry Kent,PA,Location manager
+5,Aaron Johnston,MD,Public house manager
+6,Larry Kent,PA,Patent attorney
+7,Robert Heath,DO,Public house manager
+8,Robert Heath,PA,Public house manager
+9,Aaron Johnston,NP,Patent attorney
+10,Jonathan Melendez,MD,Training and development officer
+11,Jonathan Melendez,MD,Patent attorney
+12,Jonathan Peters,PA,Public house manager
+13,Christopher Mcdonald,PA,Regulatory affairs officer
+14,Jonathan Melendez,NP,Training and development officer
+15,Robert Heath,MD,Patent attorney
+16,Kimberly Turner,MD,Training and development officer
+17,Larry Kent,MD,Regulatory affairs officer
+18,Jonathan Peters,MD,Training and development officer
+19,Kimberly Turner,MD,Location manager
+20,Christopher Mcdonald,DO,Training and development officer
+21,Christopher Baker,DO,Patent attorney
+22,Larry Kent,MD,Location manager
+23,Jonathan Peters,PA,Training and development officer
+24,Robert Heath,DO,Regulatory affairs officer
+25,Kimberly Turner,PA,Patent attorney
+26,Jonathan Melendez,DO,Public house manager
+27,Robert Heath,MD,Public house manager
+28,Robert Heath,MD,Training and development officer
+29,Christopher Mcdonald,DO,Editorial assistant
+30,Aaron Johnston,PA,Training and development officer
+31,Christopher Mcdonald,DO,Public house manager
+32,Larry Kent,DO,Training and development officer
+33,Jonathan Peters,NP,Patent attorney
+34,Christopher Baker,NP,Editorial assistant
+35,Aaron Johnston,NP,Location manager
+36,Christopher Mcdonald,PA,Editorial assistant
+37,Kimberly Turner,DO,Location manager
+38,Kimberly Turner,MD,Public house manager
+39,Christopher Baker,NP,Location manager
+40,Christopher Baker,DO,Training and development officer
+41,Jonathan Melendez,MD,Editorial assistant
+42,Christopher Baker,DO,Regulatory affairs officer
+43,Jonathan Melendez,DO,Regulatory affairs officer
+44,Christopher Mcdonald,MD,Location manager
+45,Kimberly Turner,NP,Regulatory affairs officer
+46,Jonathan Melendez,DO,Editorial assistant
+47,Aaron Johnston,NP,Training and development officer
+48,Aaron Johnston,PA,Patent attorney
+49,Christopher Mcdonald,NP,Training and development officer
+50,Aaron Johnston,DO,Training and development officer
+51,Christopher Baker,MD,Public house manager
+52,Kimberly Turner,MD,Regulatory affairs officer
+53,Jonathan Melendez,PA,Training and development officer
+54,Larry Kent,DO,Regulatory affairs officer
+55,Christopher Mcdonald,PA,Training and development officer
+56,Kimberly Turner,MD,Editorial assistant
+57,Larry Kent,NP,Regulatory affairs officer
+58,Larry Kent,DO,Location manager
+59,Christopher Baker,MD,Training and development officer
+60,Jonathan Peters,NP,Public house manager
+61,Christopher Mcdonald,MD,Public house manager
+62,Larry Kent,MD,Patent attorney
+63,Jonathan Melendez,PA,Public house manager
+64,Larry Kent,MD,Editorial assistant
+65,Aaron Johnston,PA,Public house manager
+66,Jonathan Peters,NP,Regulatory affairs officer
+67,Christopher Mcdonald,DO,Regulatory affairs officer
+68,Robert Heath,PA,Editorial assistant
+69,Robert Heath,DO,Patent attorney
+70,Aaron Johnston,MD,Training and development officer
+71,Robert Heath,DO,Training and development officer
+72,Jonathan Peters,MD,Location manager
+73,Jonathan Peters,MD,Public house manager
+74,Larry Kent,PA,Regulatory affairs officer
+75,Kimberly Turner,PA,Public house manager
+76,Robert Heath,PA,Location manager
+77,Christopher Baker,PA,Editorial assistant
+78,Larry Kent,NP,Location manager
+79,Larry Kent,NP,Patent attorney
+80,Jonathan Melendez,NP,Location manager
+81,Jonathan Peters,PA,Patent attorney
+82,Jonathan Peters,MD,Editorial assistant
+83,Kimberly Turner,PA,Training and development officer
+84,Christopher Mcdonald,DO,Location manager
+85,Kimberly Turner,NP,Training and development officer
+86,Kimberly Turner,NP,Location manager
+87,Kimberly Turner,DO,Patent attorney
+88,Aaron Johnston,MD,Location manager
+89,Christopher Mcdonald,PA,Patent attorney
+90,Jonathan Peters,MD,Regulatory affairs officer
+91,Kimberly Turner,DO,Regulatory affairs officer
+92,Jonathan Peters,NP,Location manager
+93,Jonathan Melendez,PA,Regulatory affairs officer
+94,Larry Kent,NP,Training and development officer
+95,Aaron Johnston,DO,Location manager
+96,Christopher Mcdonald,MD,Editorial assistant
+97,Aaron Johnston,NP,Editorial assistant
+98,Jonathan Peters,NP,Editorial assistant
+99,Jonathan Peters,PA,Editorial assistant
+100,Jonathan Melendez,NP,Editorial assistant
+101,Christopher Mcdonald,DO,Patent attorney
+102,Jonathan Peters,DO,Location manager
+103,Aaron Johnston,DO,Editorial assistant
+104,Larry Kent,MD,Training and development officer
+105,Aaron Johnston,PA,Regulatory affairs officer
+106,Larry Kent,DO,Patent attorney
+107,Robert Heath,PA,Regulatory affairs officer
+108,Robert Heath,NP,Public house manager
+109,Christopher Baker,MD,Regulatory affairs officer
+110,Robert Heath,PA,Patent attorney
+111,Larry Kent,NP,Editorial assistant
+112,Robert Heath,NP,Patent attorney
+113,Kimberly Turner,MD,Patent attorney
+114,Jonathan Melendez,NP,Patent attorney
+115,Jonathan Melendez,MD,Location manager
+116,Jonathan Peters,NP,Training and development officer
+117,Robert Heath,NP,Location manager
+118,Jonathan Melendez,DO,Training and development officer
+119,Jonathan Melendez,MD,Public house manager
+120,Christopher Mcdonald,NP,Regulatory affairs officer
+121,Jonathan Peters,DO,Public house manager
+122,Jonathan Peters,DO,Training and development officer
+123,Christopher Baker,PA,Regulatory affairs officer
+124,Aaron Johnston,NP,Regulatory affairs officer
+125,Robert Heath,NP,Regulatory affairs officer
+126,Aaron Johnston,PA,Location manager
+127,Larry Kent,NP,Public house manager
+128,Larry Kent,MD,Public house manager
+129,Jonathan Melendez,DO,Location manager
+130,Robert Heath,PA,Training and development officer
+131,Aaron Johnston,DO,Patent attorney
+132,Christopher Mcdonald,PA,Location manager
+133,Christopher Mcdonald,MD,Patent attorney
+134,Kimberly Turner,DO,Editorial assistant
+135,Christopher Mcdonald,MD,Training and development officer
+136,Jonathan Melendez,MD,Regulatory affairs officer
+137,Jonathan Peters,DO,Regulatory affairs officer
+138,Robert Heath,DO,Location manager
+139,Kimberly Turner,NP,Patent attorney
+140,Christopher Mcdonald,PA,Public house manager
+141,Jonathan Peters,PA,Regulatory affairs officer
+142,Kimberly Turner,NP,Public house manager
+143,Jonathan Melendez,PA,Patent attorney
+144,Jonathan Peters,DO,Editorial assistant
+145,Aaron Johnston,MD,Regulatory affairs officer
+146,Robert Heath,MD,Editorial assistant
+147,Jonathan Melendez,NP,Public house manager
+148,Larry Kent,DO,Public house manager
+149,Christopher Mcdonald,NP,Location manager
+150,Christopher Baker,NP,Training and development officer
+151,Kimberly Turner,DO,Public house manager
+152,Christopher Baker,NP,Regulatory affairs officer
+153,Christopher Baker,MD,Editorial assistant
+154,Christopher Baker,PA,Public house manager
+155,Larry Kent,PA,Editorial assistant
+156,Larry Kent,DO,Editorial assistant
+157,Christopher Baker,PA,Location manager
+158,Aaron Johnston,MD,Patent attorney
+159,Larry Kent,PA,Public house manager
+160,Christopher Baker,DO,Editorial assistant
+161,Aaron Johnston,NP,Public house manager
+162,Kimberly Turner,PA,Editorial assistant
+163,Christopher Mcdonald,NP,Public house manager
+164,Christopher Baker,NP,Public house manager
+165,Christopher Mcdonald,NP,Editorial assistant
+166,Christopher Baker,MD,Location manager
+167,Robert Heath,NP,Editorial assistant
+168,Kimberly Turner,PA,Location manager
+169,Christopher Baker,DO,Public house manager
+170,Larry Kent,PA,Training and development officer
+171,Jonathan Peters,MD,Patent attorney
+172,Aaron Johnston,PA,Editorial assistant
+173,Robert Heath,MD,Location manager
+174,Christopher Baker,NP,Patent attorney
+175,Robert Heath,DO,Editorial assistant
+176,Jonathan Melendez,PA,Location manager
+177,Christopher Baker,PA,Patent attorney
+178,Christopher Mcdonald,NP,Patent attorney
+179,Robert Heath,NP,Training and development officer
+180,Jonathan Melendez,DO,Patent attorney
+181,Kimberly Turner,PA,Regulatory affairs officer
+182,Jonathan Peters,DO,Patent attorney
+183,Christopher Mcdonald,MD,Regulatory affairs officer
+184,Jonathan Melendez,PA,Editorial assistant
+185,Aaron Johnston,DO,Regulatory affairs officer
