@@ -10,35 +10,6 @@ The transformation is implemented entirely in Python using only standard librari
 
 ---
 
-## Project Structure
-
-```
-root/
-│
-├── dataset/
-│   └── legacy_healthcare_data.csv    # Source: flat legacy data (47 columns)
-│
-├── src/
-│   ├── main.py                       # Core transformation logic (DataProcessor class)
-│
-├── output/                           # Generated CSV files (11 tables)
-│   ├── DimPatient.csv
-│   ├── DimInsurance.csv
-│   ├── DimBilling.csv
-│   ├── DimProvider.csv
-│   ├── DimLocation.csv
-│   ├── DimPrimaryDiagnosis.csv
-│   ├── DimSecondaryDiagnosis.csv
-│   ├── DimTreatment.csv
-│   ├── DimPrescription.csv
-│   ├── DimLabOrder.csv
-│   └── FactVisit.csv
-│
-└── README.md
-```
-
----
-
 ## How I approached the Transformation
 
 The `DataProcessor` class reads the flat 47-column legacy CSV and decomposes it into a normalized Snowflake schema through a single streaming pass over the data, using batch processing.
@@ -162,3 +133,30 @@ The script will:
 - **Streaming Deduplication**: Lookup dictionaries allow O(1) dedup checks during the single-pass read, avoiding the need for a second pass or sorting.
 - **Schema-Driven Output**: The `SCHEMAS` dictionary acts as the single source of truth for column order, ensuring CSV headers always match the required schema.
 - **No External Dependencies**: The entire pipeline runs on Python's standard library.
+
+## Project Structure
+
+```
+root/
+│
+├── dataset/
+│   └── legacy_healthcare_data.csv    # Source: flat legacy data (47 columns)
+│
+├── src/
+│   ├── main.py                       # Core transformation logic (DataProcessor class)
+│
+├── output/                           # Generated CSV files (11 tables)
+│   ├── DimPatient.csv
+│   ├── DimInsurance.csv
+│   ├── DimBilling.csv
+│   ├── DimProvider.csv
+│   ├── DimLocation.csv
+│   ├── DimPrimaryDiagnosis.csv
+│   ├── DimSecondaryDiagnosis.csv
+│   ├── DimTreatment.csv
+│   ├── DimPrescription.csv
+│   ├── DimLabOrder.csv
+│   └── FactVisit.csv
+│
+└── README.md
+```
